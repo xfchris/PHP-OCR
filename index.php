@@ -30,7 +30,7 @@
 				echo "<div id='im' style='display:none;'>" .  $image . "</div>";
 				
 			} else {
-				echo "not supported file type";
+				echo "Not supported file type";
 			}
 		}
 		?>
